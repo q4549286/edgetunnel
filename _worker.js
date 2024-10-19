@@ -37,7 +37,12 @@ let go2Socks5s = [
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
 	/*
-	'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#加入我的频道t.me/CMLiussss解锁更多优选节点',
+	'cf.090227.xyz#三网自适应分流官方优选',
+ 'cfip.xxxxxxxx.tk#OTC提供维护官方优选',
+'bestcf.onecf.eu.org#Mingyu提供维护官方优选',
+'cf.zhetengsha.eu.org#小一提供维护官方优选',
+'acjp2.cloudflarest.link#KJKKK维护官方优选',
+'achk.cloudflarest.link#KJKKK维护官方优选',
 	'visa.cn:443',
 	'www.visa.com:8443',
 	'cis.visa.com:2053',
